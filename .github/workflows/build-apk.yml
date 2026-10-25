@@ -12,7 +12,7 @@ jobs:
 
       - name: Download project ZIP
         run: |
-          curl -L -o jernih.zip "https://muse.ai/files/1451609868034060/2005423046815020/ce32ufkj9t5q50idjuoso0fx/jernih-android.zip"
+          curl -L -o jernih.zip "https://muse.ai/files/1451609868034060/1794361581885783/j7p2ta1ibxok102y78sgub5z/jernih-android.zip"
           unzip -q jernih.zip
           ls jernih-android
 
